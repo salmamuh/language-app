@@ -1,16 +1,21 @@
-# untitled6
+# toku
 
-A new Flutter project.
+A simple Flutter app to help beginners learn **basic Japanese vocabulary** like numbers, family members, and colors — using **audio, images, and words**.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 📚 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔢 Learn Japanese numbers with images and sound
+- 👨‍👩‍👧 Family members in Japanese
+- 🎨 Colors in Japanese
+- 🔊 Audio pronunciation for each word
+- 🖼️ Visual aids (images) to support learning
+- 🧠 Suitable for kids or anyone starting Japanese
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Built With
+
+- **Flutter**
+- **Dart**
